@@ -1,0 +1,11 @@
+# Uncomment this file to enable multilanguage site support
+
+[en]
+weight = 1
+languageName = "English"
+#languagedirection = "ltr"
+#title = "Example Site"
+
+[ru]
+languageName = "Russian"
+weight = 2
